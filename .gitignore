@@ -1,0 +1,5 @@
+config_creds.py
+.gitattributes
+.streamlit/
+testing/
+trained_models/
