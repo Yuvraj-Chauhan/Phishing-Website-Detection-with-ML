@@ -90,7 +90,7 @@ PhishGuardian uses machine learning models trained on a custom dataset of conten
 ## 🔗 Useful Links
 
 - [Streamlit App](https://phishguardian.streamlit.app/)
-- [Download Dataset](https://www.kaggle.com/datasets/caa4151f1b51bb917db7f8fa856f7ff60d6253a4989502dc5539c54f38a62ffe)
+- [Download Dataset](https://www.kaggle.com/datasets/yuvistrange/content-based-features-phishing-and-legit-websites)
 - [Streamlit Documentation](https://docs.streamlit.io/)
 - [Firebase Documentation](https://firebase.google.com/docs)
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/)
